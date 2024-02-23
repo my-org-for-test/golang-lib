@@ -1,0 +1,8 @@
+version: 1
+type: go
+resolver:
+    repo: golang-lib2
+    serverId: artifactory-example
+deployer:
+    repo: golang-lib2
+    serverId: artifactory-example
