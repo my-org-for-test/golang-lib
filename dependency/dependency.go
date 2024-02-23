@@ -3,5 +3,5 @@ package dependency
 import "fmt"
 
 func PrintDependencyMessage() {
-	fmt.Println("Dependency. Release 2")
+	fmt.Println("Dependency. Release v1.0.5")
 }
