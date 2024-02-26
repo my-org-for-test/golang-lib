@@ -1,2 +1,2 @@
-module github.com/my-org-for-test/golang-lib
+module github.com/my-org-org/golang-lib
 go 1.22
